@@ -24,6 +24,8 @@
 }
 .btn-mini {
 	margin-top: 5px;
+	position: relative;
+    transform: skew(15deg);
 }
 .github-logo {
 	width: 20px;
