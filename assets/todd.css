@@ -1,0 +1,36 @@
+.todd-link-row {
+	margin-top: 10px;
+}
+.todd-title {
+	font-size: small;
+}
+.todd-technologies-row {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.todd-tech-button-group {
+	width: 100%;
+}
+.todd-body {
+	padding: 50px;
+}
+.hero-unit {
+	background: #464646;
+	color: #fff;
+}
+.todd-technologies-section {
+	padding-left: 15px;
+	width:100%;
+}
+.btn-mini {
+	margin-top: 5px;
+}
+.github-logo {
+	width: 20px;
+}
+.todd-mb-20{
+	margin-bottom:20px;
+}
+.todd-mt-20{
+		margin-top:20px;
+}
